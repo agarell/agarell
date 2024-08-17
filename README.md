@@ -1,7 +1,5 @@
 <h1>Hi, I'm Elliott!</h1>
 
-<b>I'm a full time ICT Service desk technician, part time student studying Networking & Cybersecurity</b>
-
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Empty for now</b>
