@@ -10,9 +10,10 @@
 - <b>IT, Networking and Cybersecurity</b>
   - [Certificate III Information Technology](https://www.myequals.net/sharelink/f3c43999-3727-42bc-84e6-f7eb5e6074c4/5dd07f72-a3b5-4f94-9582-f44ff18666f4)
   - [Certificate IV Cybersecurity ongoing]
-  - [Cybersecurity Essentials]
   - [Microsoft Cybersecurity Analyst Professional Certificate]
+  - [Cisco's Cybersecurity Essentials]
   - [Google's crash course on Python]
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Elliott Agar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
