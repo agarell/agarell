@@ -7,8 +7,8 @@
 
 <h2>📜 Scripts and Programs:</h2>
 
-- <b>Empty for now</b>
-  - [Blank](https://github.com/)
+- <b>Python and Powershell Scripts</b>
+  - [Unorganised for now](https://github.com/agarell/Scripts-Programs)
 
 <h2>📜 Certifications</h2>
 
