@@ -5,6 +5,11 @@
 - <b>Empty for now</b>
   - [Blank](https://github.com/)
 
+<h2>📜 Scripts and Programs:</h2>
+
+- <b>Empty for now</b>
+  - [Blank](https://github.com/)
+
 <h2>📜 Certifications</h2>
 
 - <b>IT, Networking and Cybersecurity</b>
